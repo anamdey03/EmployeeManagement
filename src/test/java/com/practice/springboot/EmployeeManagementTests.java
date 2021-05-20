@@ -1,10 +1,10 @@
-package net.supernova.springboot;
+package com.practice.springboot;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
 
 @SpringBootTest
-class SpringbootThymeleafCrudWebAppApplicationTests {
+class EmployeeManagementTests {
 
 	@Test
 	void contextLoads() {
